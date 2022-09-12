@@ -1,2 +1,4 @@
 acabamos de crear una actializacion en una rama y la voy a mandar al master
 AQUI AGREGUE EL HEADER BRO :)
+AQUI AGREGUE EL FOOTER 
+Se arreglo el error del footer
