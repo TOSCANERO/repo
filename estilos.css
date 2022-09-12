@@ -1,0 +1,10 @@
+header{
+    background-color: red;
+    color: aqua;
+    padding: 15px;
+}
+p{
+    background-color: aqua;
+    color: red;
+    padding: 20px;
+}
